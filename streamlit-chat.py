@@ -3,7 +3,7 @@ import requests
 
 # --- Configuration ---
 API_URL = "http://localhost:3000/api/chat/completions"
-BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE3N2IxYTk2LTY5YWMtNGYyOS1iZDcyLWQ2YWQ1NDhkMDdlOCJ9.Iz5f9SvRbP5T6Vkk8lvT94ReDo399a9V4rlACefqwc0"  # Replace with your real token
+BEARER_TOKEN = "your-token-here"
 MODEL_NAME = "nezbistro-chatbot"
 
 # --- Streamlit setup ---
